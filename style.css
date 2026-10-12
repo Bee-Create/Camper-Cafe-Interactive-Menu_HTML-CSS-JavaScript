@@ -104,3 +104,7 @@ a:active {
   border: 2px solid brown;
   border-radius: 6px;
 }
+
+.item {
+  cursor: pointer;
+}
