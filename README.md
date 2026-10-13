@@ -1,6 +1,6 @@
 # Camper-Cafe-Interactive-Menu_HTML-CSS-JavaScript
 <h3>View Live Page</h3>
-Visit <a href="">my live page</a> to see the code perform.<br>
+Visit <a href="https://bee-create.github.io/Camper-Cafe-Interactive-Menu_HTML-CSS-JavaScript/">my live page</a> to see the code perform.<br>
 <h3>Purpose of This Project</h3>
 The purpose of this project is to aesthetically and interactively display the coffee and dessert selections for the "Camper Cafe" menu.
 The coffee and dessert items should be selectable. You can select more than one item and the total price will display at the bottom of the menu. As you unselect an item, the price of that item will be subtracted from the total price displayed at the bottom.<br>
