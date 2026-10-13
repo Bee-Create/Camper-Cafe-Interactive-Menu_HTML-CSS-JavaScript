@@ -15,7 +15,7 @@ I typed and saved these code files using <a href="https://code.visualstudio.com"
 <h3>Important Information</h3>
 <h4>The JavaScript in this project should allow you to:</h4>
 <ul>
-  <li>See the mouse cursor turn into a pointer (hand) when hovering over a menu item</li>
+  <li>See the mouse cursor turn into a pointer (hand) when hovering over a menu item (on desktop, of course)</li>
   <li>Click / tap on one or multiple items to select them</li>
   <li>See the total price of one or more selected items at the bottom of the menu</li>
   <li>Deselect an item you selected by clicking / tapping it again</li>
